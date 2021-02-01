@@ -1,0 +1,23 @@
+[33mcommit d5c84f27efb4fe3790d476afe237c417935dbe36[m[33m ([m[1;36mHEAD -> [m[1;32mthirdbranch[m[33m, [m[1;33mtag: v2.0[m[33m, [m[1;32msecondbranch[m[33m)[m
+Author: yugandhar <yugandhar@gmail.com>
+Date:   Mon Feb 1 13:02:53 2021 +0000
+
+    third commit
+
+[33mcommit a722cff477bb6feb132ba0b30ff8d3659fd42e3f[m[33m ([m[1;32mmaster[m[33m, [m[1;32mfirstbranch[m[33m)[m
+Author: yugandhar <yugandhar@gmail.com>
+Date:   Mon Feb 1 10:16:07 2021 +0000
+
+    ignored files
+
+[33mcommit 5ff837d6123f3c7c600189ff31c9b961c8d7985e[m[33m ([m[1;33mtag: v1.0[m[33m, [m[1;33mtag: 56b9abe[m[33m)[m
+Author: root <root@ip-172-31-84-152.ec2.internal>
+Date:   Mon Feb 1 09:20:59 2021 +0000
+
+    second commit
+
+[33mcommit 56b9abe50d5d686f43ca0b06dcb2b02368ab614b[m
+Author: root <root@ip-172-31-84-152.ec2.internal>
+Date:   Mon Feb 1 09:10:09 2021 +0000
+
+    first commit
